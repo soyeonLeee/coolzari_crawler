@@ -1,0 +1,5 @@
+global:
+  naver_movie_api:
+    api_url: "https://openapi.naver.com/v1/search/movie"
+    client_id: "ejOUQkCYzvQKxcQB9C7U"
+    client_secret: "QNkvPM3696"

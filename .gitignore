@@ -1,0 +1,9 @@
+*.pyc
+
+# IDEA config files
+.idea
+.idea/
+.idea/workspace.xml
+/.idea/
+/.idea/workspace.xml
+*.imi   
