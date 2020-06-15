@@ -5,4 +5,4 @@ global:
         port: 3306
         user: root
         password: 1971
-        db_name: movie
+        db_name: movie_db

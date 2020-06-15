@@ -1,0 +1,2 @@
+[INSERT MOVIE] <b>원더 우먼</b> - TV 시리즈 / 19232 
+ --> (1406, "Data too long for column 'movie_director' at row 1")
